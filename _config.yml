@@ -10,9 +10,9 @@ description: >
   ca nossa
 url: http://canossa.ml
 default_img: /assets/images/seo.jpg
-social:
-  - name: github
-    url: https://github.com/jxpedro
+#social:
+#  - name: github
+#    url: https://github.com/jxpedro
 
 # Contact settings
 #contact_img: /assets/images/placeholder-28.jpg
