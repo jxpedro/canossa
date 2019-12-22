@@ -2,7 +2,7 @@
 email: p@mail
 baseurl: ""
 permalink: /:year/:month/:day/:title/
-google_analytics: 
+#google_analytics: 
 
 name: canossa
 title: ca nossa
@@ -50,7 +50,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'canossa'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
