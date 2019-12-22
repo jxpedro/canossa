@@ -1,5 +1,5 @@
 # Site/SEO settings
-email: @mail
+email: p@mail
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
