@@ -4,7 +4,7 @@ layout: misc
 <html>
 <head>
 <style>
-table#t01, th, td {
+table#t02, th, td {
 	border-width:5px;  
     border-style:none;
 	padding: 0px;
@@ -12,50 +12,155 @@ table#t01, th, td {
 	margin-left:auto; 
     margin-right:auto;
 	font-size: small;
+	table-layout: fixed;
+	align-content: center;
+	text-align:center;
 }
 </style>
 </head>
 <body>
 
-<table id="t01">
+<table id="t02">
   <tr>
-    <td></td>
-    <td><b>c</b>alendário</td>
-    <td></td>
+    <th>c</th>
+	<th>a</th>
+    <th>&nbsp;</th>
+	<th>n</th>
+    <th>o</th>
+    <th>s</th>
+    <th>s</th>
+    <th>a</th>
   </tr>
-  <tr>
-    <td></td>
-    <td> <b>a</b>gendado  <br>&nbsp;
-	</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td style="text-align: right">de &nbsp;</td>
-    <td><b>n</b>otas,</td>
-    <td></td>
-  </tr>
-<tr>
-    <td></td>
-    <td><b>o</b>bservações,</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><b>s</b>ignificações,</td>
-    <td></td>
+    <tr>
+    <td>a</td>
+    <td>g</td>
+	<td></td>
+    <td>o</td>
+    <td>b</td>
+    <td>i</td>
+    <td>i</td>
+	<td>c</td>
   </tr>
   <tr>
+    <td>l</td>
+    <td>e</td>
+	<td></td>
+    <td>t</td>
+    <td>s</td>
+    <td>g</td>
+    <td>g</td>
+	<td>r</td>
+  </tr>
+  <tr>
+    <td>e</td>
+    <td>n</td>
+	<td></td>
+    <td>a</td>
+    <td>e</td>
+    <td>n</td>
+    <td>l</td>
+	<td>ó</td>
+  </tr>
+  <tr>
+    <td>n</td>
+    <td>d</td>
+	<td></td>
+    <td>s</td>
+    <td>r</td>
+    <td>i</td>
+    <td>a</td>
+	<td>n</td>
+  </tr>
+  <tr>
+    <td>d</td>
+    <td>a</td>
+	<td></td>
+    <td>,</td>
+    <td>v</td>
+    <td>f</td>
+    <td>s</td>
+	<td>i</td>
+  </tr>
+  <tr>
+    <td>á</td>
+    <td>d</td>
+	<td></td>
     <td></td>
-    <td><b>s</b>iglas e</td>
+    <td>a</td>
+    <td>i</td>
     <td></td>
+	<td>m</td>
+  </tr>
+   <tr>
+    <td>r</td>
+    <td>o</td>
+	<td></td>
+    <td></td>
+    <td>-</td>
+    <td>c</td>
+    <td>e</td>
+	<td>o</td>
+  </tr>
+  <tr>
+    <td>i</td>
+    <td></td>
+	<td></td>
+    <td></td>
+    <td></td>
+    <td>a</td>
+    <td></td>
+	<td>s</td>
+  </tr>
+  <tr>
+    <td>o</td>
+    <td>d</td>
+	<td></td>
+    <td></td>
+    <td></td>
+    <td>ç</td>
+    <td></td>
+	<td></td>
   </tr>
   <tr>
     <td></td>
-    <td><b>a</b>crónimos</td>
+    <td>e</td>
+	<td></td>
     <td></td>
+    <td></td>
+    <td>õ</td>
+    <td></td>
+	<td></td>
   </tr>
-
-  
+  <tr>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+    <td></td>
+    <td>e</td>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+    <td></td>
+    <td>s</td>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td></td>
+    <td></td>
+    <td>,</td>
+    <td></td>
+	<td></td>
+  </tr>
 </table>
 
 
