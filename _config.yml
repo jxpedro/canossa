@@ -16,9 +16,9 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "ca nossa"
-description:	       "pa"
-author:              "jxpedro"
+title:		           "ca&emsp;nos&nbsp;sa"
+description:	       ""
+author:              "jxp"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
