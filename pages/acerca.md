@@ -27,6 +27,10 @@ div.nota {
 div.ast {
   font-weight: bold;
 }
+
+div.risc {
+  color: rgb(135, 135, 135);
+}
 </style>
 </head>
 <body>
@@ -38,50 +42,76 @@ div.ast {
 
 <table id="t02">
   <tr>
-    <td></td>
-    <td></td>
+    <td><div class="risc">v</div></td>
+    <td><div class="risc">v</div></td>
 	<td></td>
 	<td></td>
 	<td></td>
-    <td>d</td>
-    <td></td>
-    <td></td>
+    <td><div class="risc">v</div></td>
+    <td><div class="risc">v</div></td>
+    <td><div class="risc">v</div></td>
 	<td></td>
-    <td></td>
-	<td></td>
+    <td><div class="risc">v</div></td>
+	<td><div class="risc">v</div></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
 	<td></td>
 	<td></td>
 	<td></td>
-    <td>e</td>
-    <td></td>
-    <td></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
 	<td></td>
-    <td></td>
-	<td>e</td>
+    <td><div class="risc">.</div></td>
+	<td><div class="risc">.</div></td>
   </tr>
   <tr>
-    <td> &nbsp;</td>
-    <td> </td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
 	<td></td>
 	<td></td>
 	<td></td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+    <td><div class="risc">d</div></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
 	<td></td>
-	<td> </td>
+    <td><div class="risc">.</div></td>
+	<td><div class="risc">.</div></td>
+  </tr>
+  <tr>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+	<td></td>
+	<td></td>
+	<td></td>
+    <td><div class="risc">e</div></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+	<td></td>
+    <td><div class="risc">.</div></td>
+	<td><div class="risc">e</div></td>
+  </tr>
+  <tr>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+	<td></td>
+	<td></td>
+	<td></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td></td>
+	<td><div class="risc">.</div></td>
+	<td><div class="risc">.</div></td>
   </tr>
   <tr>
     <th>c</th>
 	<th>a</th>
 	<td></td>
 	<td></td>
-    <th>&nbsp;</th>
+    <th></th>
 	<th>n</th>
     <th>o</th>
     <th>s</th>
@@ -147,7 +177,7 @@ div.ast {
 	<td></td>
 	<td></td>
 	<td></td>
-    <td></td>
+    <td><div class="risc">.</div></td>
     <td>v</td>
     <td>f</td>
 	<td></td>
@@ -160,11 +190,11 @@ div.ast {
 	<td></td>
 	<td></td>
 	<td></td>
-    <td></td>
+    <td><div class="risc">.</div></td>
     <td>a</td>
     <td>i</td>
 	<td></td>
-    <td></td>
+    <td><div class="risc">.</div></td>
 	<td>m</td>
   </tr>
    <tr>
@@ -173,90 +203,90 @@ div.ast {
 	<td></td>
 	<td></td>
 	<td></td>
-    <td></td>
+    <td><div class="risc">.</div></td>
     <td>-</td>
     <td>c</td>
 	<td></td>
-    <td></td>
+    <td><div class="risc">.</div></td>
 	<td>o</td>
   </tr>
   <tr>
     <td>i</td>
-    <td></td>
+    <td><div class="risc">.</div></td>
 	<td></td>
 	<td></td>
 	<td></td>
-    <td></td>
-    <td></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
     <td>a</td>
 	<td></td>
-    <td></td>
+    <td><div class="risc">.</div></td>
 	<td>s</td>
   </tr>
   <tr>
     <td>o</td>
-    <td></td>
+    <td><div class="risc">.</div></td>
 	<td></td>
 	<td></td>
 	<td></td>
-    <td></td>
-    <td></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
     <td>ç</td>
 	<td></td>
-    <td></td>
-	<td></td>
+    <td><div class="risc">.</div></td>
+	<td><div class="risc">.</div></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
 	<td></td>
 	<td></td>
 	<td></td>
-    <td></td>
-    <td></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
     <td>õ</td>
 	<td></td>
-    <td></td>
-	<td></td>
+    <td><div class="risc">.</div></td>
+	<td><div class="risc">.</div></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
 	<td></td>
 	<td></td>
 	<td></td>
-    <td></td>
-    <td></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
     <td>e</td>
 	<td></td>
-    <td></td>
-	<td></td>
+    <td><div class="risc">.</div></td>
+	<td><div class="risc">.</div></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
 	<td></td>
 	<td></td>
 	<td></td>
-    <td></td>
-    <td></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
     <td>s</td>
 	<td></td>
-    <td></td>
-	<td></td>
+    <td><div class="risc">.</div></td>
+	<td><div class="risc">.</div></td>
   </tr>
   <tr>
-    <td> &nbsp;</td>
-    <td> </td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
 	<td></td>
 	<td></td>
 	<td></td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
 	<td></td>
-    <td> </td>
-	<td> </td>
+    <td><div class="risc">.</div></td>
+	<td><div class="risc">.</div></td>
   </tr>
   <tr>
     <td><div class="ast">I</div></td>
@@ -272,30 +302,30 @@ div.ast {
 	<td><div class="ast">VII</div></td>
   </tr>
   <tr>
-    <td> &nbsp;</td>
-    <td> </td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
 	<td></td>
 	<td></td>
 	<td></td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+    <td><div class="risc">,</div></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">,</div></td>
 	<td></td>
-    <td> </td>
-	<td> </td>
+    <td><div class="risc">.</div></td>
+	<td><div class="risc">.</div></td>
   </tr>
   <tr>
-    <td> </td>
-    <td> </td>
+    <td><div class="risc">i</div></td>
+    <td><div class="risc">i</div></td>
 	<td></td>
 	<td></td>
 	<td></td>
-    <td>,</td>
-    <td> </td>
-    <td>, </td>
+    <td><div class="risc">i</div></td>
+    <td><div class="risc">i</div></td>
+    <td><div class="risc">i</div></td>
 	<td></td>
-    <td></td>
-	<td> </td>
+    <td><div class="risc">i</div></td>
+	<td><div class="risc">x</div></td>
   </tr>
 </table>
 
