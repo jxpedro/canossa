@@ -1,5 +1,6 @@
 ---
 layout: misc
+published: true
 ---
 <html>
 <head>
@@ -8,7 +9,7 @@ table#t02, th, td {
 	border-width:5px;  
     border-style:none;
 	padding: 0px;
-	width:33%; 
+	width:60%; 
 	margin-left:auto; 
     margin-right:auto;
 	font-size: small;
@@ -328,6 +329,3 @@ div.risc {
 	<td><div class="risc">x</div></td>
   </tr>
 </table>
-
-
-
