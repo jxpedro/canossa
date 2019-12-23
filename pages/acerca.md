@@ -18,13 +18,13 @@ table#t02, th, td {
 }
 
 div.nota {
-  font-size: small;
+  font-size: x-small;
   text-align:right;
   font-style: normal;
+  color: rgb(243, 243, 243);
 }
 
 div.ast {
-  font-size: normal;
   font-weight: bold;
 }
 </style>
@@ -33,7 +33,7 @@ div.ast {
 
 
 
-<div class="nota">( <b>p</b>releção <b>a</b>rbitrária )</div>
+<div class="nota"> <b>p</b>releção <b>a</b>rbitrária </div>
 
 
 <table id="t02">

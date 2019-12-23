@@ -16,7 +16,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "ca&emsp;nos&nbsp;sa"
+title:		           "ca&nbsp;&nbsp;&nbsp;nos&nbsp;sa"
 description:	       ""
 author:              "jxp"
 
