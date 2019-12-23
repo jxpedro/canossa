@@ -16,9 +16,20 @@ table#t02, th, td {
 	align-content: center;
 	text-align:center;
 }
+
+div.nota {
+  font-size: xx-small;
+  text-align:right;
+  font-style: italic;
+}
 </style>
 </head>
 <body>
+
+
+
+<div class="nota">( preleção arbitrária )</div>
+
 
 <table id="t02">
   <tr>
