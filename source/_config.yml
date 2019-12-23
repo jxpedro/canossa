@@ -1,76 +1,23 @@
-# Site/SEO settings
-email: p@mail
-baseurl: ""
-permalink: /:year/:month/:day/:title/
-#google_analytics: 
+# Site Build Settings
 
-name: canossa
-title: ca nossa
-description: >
-  ca nossa
-url: http://canossa.ml
-default_img: /assets/images/seo.jpg
-#social:
-#  - name: github
-#    url: https://github.com/jxpedro
-
-# Contact settings
-#contact_img: /assets/images/placeholder-28.jpg
-#formcarry: https://formcarry.com/s/HkIo0nMb7
-
-# Disqus settings
-#disqus: test-apkdzgmqhj
-
-# MailChimp settings
-#mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-#mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
-
-# Author settings
-author:
-  - name: jxpedro
-    bio: a tad asymmetrical pedro
-    url: http://jxpedro.ml
-
-# Pagination settings
-pagination:
-  enabled: true
-  debug: false
-  per_page: 12
-  permalink: '/page/:num/'
-  title: ':title'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-autopages:
-  enabled: true
-  categories:
-    enabled: false
-  collections:
-    enabled: false
-  tags:
-    layouts: 
-      - 'tag.html'
-    title: 'canossa'
-    permalink: '/tag/:tag'
-    slugify:
-      mode: raw
-      cased: true
+# jekyll-paginate configuration
+paginate:            5
 
 # Build settings
-markdown: kramdown
-plugins:
-  - jekyll-paginate-v2
-  - jekyll-sitemap
-compress_html:
-  clippings: all
-  comments: all
-  startings: [html, head, body]
-exclude:
-  - node_modules
-  - .DS_Store
-  - barber.jpg
-  - Gemfile
-  - Gemfile.lock
-  - gulpfile.js
-  - package.json
-  - README.md
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
+sass:
+  sass_dir: assets/css
+  style: :nested
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           "ca nossa"
+description:	       ""
+author:              "jxpedro"
+
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#  path: rss-feed.xml
