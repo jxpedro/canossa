@@ -39,7 +39,8 @@ div.risc {
 
 
 <div class="nota"> <b>p</b>releção <b>a</b>rbitrária </div>
-
+  
+<p> &nbsp;</p>
 
 <table id="t02">
   <tr>
