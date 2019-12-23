@@ -11,7 +11,7 @@ table#t01, th, td {
 	width:30%; 
 	margin-left:auto; 
     margin-right:auto;
-	font-size: smaller;
+	font-size: small;
 }
 </style>
 </head>
