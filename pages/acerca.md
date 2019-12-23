@@ -18,9 +18,9 @@ table#t02, th, td {
 }
 
 div.nota {
-  font-size: xx-small;
+  font-size: x-small;
   text-align:right;
-  font-style: italic;
+  font-style: normal;
 }
 </style>
 </head>
@@ -28,7 +28,7 @@ div.nota {
 
 
 
-<div class="nota">( preleção arbitrária )</div>
+<div class="nota">( <b>p</b>releção <b>a</b>rbitrária )</div>
 
 
 <table id="t02">
