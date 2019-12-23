@@ -8,19 +8,24 @@ table#t02, th, td {
 	border-width:5px;  
     border-style:none;
 	padding: 0px;
-	width:40%; 
+	width:33%; 
 	margin-left:auto; 
     margin-right:auto;
-	font-size: large;
+	font-size: normal;
 	table-layout: fixed;
 	align-content: center;
 	text-align:center;
 }
 
 div.nota {
-  font-size: x-small;
+  font-size: small;
   text-align:right;
   font-style: normal;
+}
+
+div.ast {
+  font-size: normal;
+  font-weight: bold;
 }
 </style>
 </head>
@@ -32,6 +37,36 @@ div.nota {
 
 
 <table id="t02">
+  <tr>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td>d</td>
+    <td></td>
+    <td></td>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+	<td></td>
+    <td>e</td>
+    <td></td>
+    <td></td>
+    <td></td>
+	<td>e</td>
+  </tr>
+  <tr>
+    <td> &nbsp;</td>
+    <td> </td>
+	<td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+	<td> </td>
+  </tr>
   <tr>
     <th>c</th>
 	<th>a</th>
@@ -86,7 +121,7 @@ div.nota {
     <td>d</td>
     <td>a</td>
 	<td></td>
-    <td>,</td>
+    <td></td>
     <td>v</td>
     <td>f</td>
     <td>s</td>
@@ -109,7 +144,7 @@ div.nota {
     <td></td>
     <td>-</td>
     <td>c</td>
-    <td>e</td>
+    <td></td>
 	<td>o</td>
   </tr>
   <tr>
@@ -124,7 +159,7 @@ div.nota {
   </tr>
   <tr>
     <td>o</td>
-    <td>d</td>
+    <td></td>
 	<td></td>
     <td></td>
     <td></td>
@@ -134,7 +169,7 @@ div.nota {
   </tr>
   <tr>
     <td></td>
-    <td>e</td>
+    <td></td>
 	<td></td>
     <td></td>
     <td></td>
@@ -163,14 +198,44 @@ div.nota {
 	<td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td> &nbsp;</td>
+    <td> </td>
 	<td></td>
-    <td></td>
-    <td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+	<td> </td>
+  </tr>
+  <tr>
+    <td><div class="ast">I</div></td>
+    <td><div class="ast">II</div></td>
+	<td></td>
+    <td><div class="ast">III</div></td>
+    <td><div class="ast">IV</div></td>
+    <td><div class="ast">V</div></td>
+    <td><div class="ast">VI</div></td>
+	<td><div class="ast">VII</div></td>
+  </tr>
+  <tr>
+    <td> &nbsp;</td>
+    <td> </td>
+	<td></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+	<td> </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+	<td></td>
     <td>,</td>
+    <td> </td>
+    <td>, </td>
     <td></td>
-	<td></td>
+	<td> </td>
   </tr>
 </table>
 
