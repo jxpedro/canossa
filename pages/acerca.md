@@ -439,7 +439,7 @@ div.risc {
   </tr>
   <tr>
     <td><div class="ast">V</div></td>
-    <td colspan="13"> <div class="inner"> . </div></td>
+    <td colspan="13"> <div class="inner"> plural do que remete a dada estrutura linguística coerente sobre o sentido de palavra, ação ou declaração </div></td>
   </tr>
   <tr>
     <td colspan="14">&nbsp;</td>
@@ -456,5 +456,7 @@ div.risc {
     <td colspan="13"> <div class="inner"> . </div></td>
   </tr>
 </table>
+
+
 
 
