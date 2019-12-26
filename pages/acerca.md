@@ -432,7 +432,7 @@ div.risc {
   </tr>
   <tr>
     <td><div class="ast">IV</div></td>
-    <td colspan="13"> <div class="inner"> ato de ponderar ou maneira de considerar um assunto que se espreita de forma mais ou menos furtiva </div></td>
+    <td colspan="13"> <div class="inner"> ato de ponderar ou maneira de considerar um assunto ou algo que se espreita de forma mais ou menos furtiva </div></td>
   </tr>
   <tr>
     <td colspan="14">&nbsp;</td>
