@@ -9,7 +9,7 @@ table#t02, th, td {
 	border-width:5px;  
     border-style:none;
 	padding: 0px;
-	width:60%; 
+	width:70%; 
 	margin-left:auto; 
     margin-right:auto;
 	font-size: small;
