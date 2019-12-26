@@ -418,7 +418,7 @@ div.risc {
   </tr>
   <tr>
     <td><div class="ast">II</div></td>
-    <td colspan="13"> <div class="inner"> que foi registrado em dado meio com faculdade de conservar e reproduzir ideias, imagens ou conhecimentos anteriormente adquiridos </div></td>
+    <td colspan="13"> <div class="inner"> que foi registrado em dado meio com faculdade de conservar e reproduzir ideias, imagens ou conhecimentos </div></td>
   </tr>
   <tr>
     <td colspan="14">&nbsp;</td>
