@@ -12,7 +12,6 @@ table#t02, th, td {
 	width:70%; 
 	margin-left:auto; 
     margin-right:auto;
-	font-size: small;
 	table-layout: fixed;
 	align-content: center;
 	text-align:center;
@@ -22,7 +21,7 @@ div.nota {
   font-size: x-small;
   text-align:right;
   font-style: normal;
-  color: rgb(233, 233, 233);
+  color: rgb(135, 135, 135);
 }
 
 div.ast {
@@ -32,10 +31,14 @@ div.ast {
 div.inner {
   font-style: italic;
   text-align:justify;
+  color: rgb(135, 135, 135);
+  font-size: small;
+}
 }
 
 div.risc {
-  color: rgb(135, 135, 135);
+  color: rgb(255, 0, 0);
+  font-style: italic;
 }
 </style>
 </head>
