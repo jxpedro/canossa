@@ -411,21 +411,21 @@ div.risc {
   </tr>
   <tr>
     <td><div class="ast">I</div></td>
-    <td colspan="13"> <div class="inner"> forma de organizar os espaços de tempo correspondente à rotação da Terra durante período de revolução de um corpo celeste</div></td>
+    <td colspan="13"> <div class="inner"> forma de organizar os espaços de tempo correspondentes às rotações da Terra durante período de revolução </div></td>
   </tr>
   <tr>
     <td colspan="14">&nbsp;</td>
   </tr>
   <tr>
     <td><div class="ast">II</div></td>
-    <td colspan="13"> <div class="inner"> que foi registrado em dado meio com faculdade de conservar e reproduzir ideias, imagens ou conhecimentos </div></td>
+    <td colspan="13"> <div class="inner"> que foi registado em dado meio com faculdade de conservar e reproduzir ideias, imagens ou conhecimentos </div></td>
   </tr>
   <tr>
     <td colspan="14">&nbsp;</td>
   </tr>
   <tr>
     <td><div class="ast">III</div></td>
-    <td colspan="13"> <div class="inner"> plural de breve indicação de assunto, argumento, matéria, objeto ou tema de que se quer tratar para ser desenvolvido ou para fazer lembrar</div></td>
+    <td colspan="13"> <div class="inner"> plural de breve indicação de assunto, argumento ou tema de que se quer tratar para ser desenvolvido ou recordado</div></td>
   </tr>
   <tr>
     <td colspan="14">&nbsp;</td>
