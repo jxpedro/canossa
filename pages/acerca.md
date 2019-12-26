@@ -40,11 +40,25 @@ div.risc {
 
 
 
-<div class="nota"> <b>p</b>releção <b>a</b>rbitrária </div>
-  
-<p> &nbsp;</p>
+
+
 
 <table id="t02">
+  <tr>
+    <td colspan="14">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="14"><div class="nota"> <b>p</b>releção <b>a</b>rbitrária </div></td>
+  </tr>
+  <tr>
+    <td colspan="14">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="14">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="14">&nbsp;</td>
+  </tr>
   <tr>
     <td></td>
     <td></td>
