@@ -446,14 +446,14 @@ div.risc {
   </tr>
   <tr>
     <td><div class="ast">VI</div></td>
-    <td colspan="13"> <div class="inner"> . </div></td>
+    <td colspan="13"> <div class="inner"> plural de palavra constituída pelas letras iniciais dos termos componentes de uma expressão pronunciada letra a letra</div></td>
   </tr>
   <tr>
     <td colspan="14">&nbsp;</td>
   </tr>
   <tr>
     <td><div class="ast">VII</div></td>
-    <td colspan="13"> <div class="inner"> . </div></td>
+    <td colspan="13"> <div class="inner"> plural de palavra composta pelo conjunto de sílabas de um termo com mais de uma palavra e pronunciado regularmente </div></td>
   </tr>
 </table>
 
