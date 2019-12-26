@@ -9,36 +9,30 @@ table#t02, th, td {
 	border-width:5px;  
     border-style:none;
 	padding: 0px;
-	width:70%; 
+	width:80%; 
 	margin-left:auto; 
     margin-right:auto;
 	table-layout: fixed;
 	align-content: center;
 	text-align:center;
 }
-
 div.nota {
   font-size: x-small;
   text-align:right;
   font-style: normal;
-  color: rgb(135, 135, 135);
+  color: rgb(175, 175, 175);
 }
-
 div.ast {
   font-weight: bold;
 }
-
 div.inner {
   font-style: italic;
   text-align:justify;
-  color: rgb(135, 135, 135);
+  color: rgb(175, 175, 175);
   font-size: small;
 }
-}
-
 div.risc {
-  color: rgb(255, 0, 0);
-  font-style: italic;
+  color: rgb(175, 175, 175);
 }
 </style>
 </head>
