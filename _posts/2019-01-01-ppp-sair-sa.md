@@ -3,6 +3,7 @@ layout: post
 title: "ppp sair sa"
 author: "jpx"
 categories: week
+image: ppp-sair-sa.png
 tags: [week]
 ---
 
