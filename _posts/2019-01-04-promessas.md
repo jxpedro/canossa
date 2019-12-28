@@ -56,289 +56,337 @@ div.risc {
   <tr>
     <td></td>
     <td></td>
-    <td><div class="risc">v</div></td>
-    <td><div class="risc">v</div></td>
-	<td><div class="risc">v</div></td>
-	<td></td>
-	<td><div class="risc">v</div></td>
     <td></td>
     <td><div class="risc">v</div></td>
     <td></td>
-	<td></td>
+	  <td></td>
+	  <td><div class="risc">v</div></td>
+	  <td><div class="risc">v</div></td>
     <td><div class="risc">v</div></td>
-	<td><div class="risc">v</div></td>
+    <td><div class="risc">v</div></td>
+    <td><div class="risc">v</div></td>
+	  <td><div class="risc">v</div></td>
+    <td></td>
+	  <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><div class="risc">.</div></td>
+	  <td></td>
+	  <td></td>
+	  <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+	  <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+	  <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-	<td><div class="risc">.</div></td>
-	<td></td>
-	<td><div class="risc">.</div></td>
     <td></td>
     <td><div class="risc">.</div></td>
-    <td></td>
-	<td></td>
+	  <td></td>
+	  <td></td>
+	  <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
-	<td><div class="risc">.</div></td>
+    <td><div class="risc">s</div></td>
+    <td><div class="risc">.</div></td>
+	  <td><div class="risc">.</div></td>
+    <td><div class="risc">d</div></td>
+	  <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td><div class="risc">.</div></td>
-    <td><div class="risc">c</div></td>
-	<td><div class="risc">.</div></td>
-	<td></td>
-	<td><div class="risc">.</div></td>
     <td></td>
     <td><div class="risc">.</div></td>
-    <td></td>
-	<td></td>
+	  <td></td>
+	  <td></td>
+	  <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
-	<td><div class="risc">.</div></td>
+    <td><div class="risc">e</div></td>
+    <td><div class="risc">.</div></td>
+	  <td><div class="risc">.</div></td>
+    <td><div class="risc">e</div></td>
+	  <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td><div class="risc">.</div></td>
-    <td><div class="risc">o</div></td>
-	<td><div class="risc">d</div></td>
-	<td></td>
-	<td><div class="risc">e</div></td>
     <td></td>
     <td><div class="risc">.</div></td>
-    <td></td>
-	<td></td>
+	  <td></td>
+	  <td></td>
+	  <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
-	<td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+	  <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+	  <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td><div class="risc">.</div></td>
-    <td><div class="risc">m</div></td>
-	<td><div class="risc">e</div></td>
-	<td></td>
-	<td><div class="risc">m</div></td>
     <td></td>
-    <td><div class="risc">.</div></td>
-    <td></td>
-	<td></td>
-    <td><div class="risc">.</div></td>
-	<td><div class="risc">.</div></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-	<td><div class="risc">.</div></td>
-	<td></td>
-	<td><div class="risc">.</div></td>
-    <td></td>
-    <td><div class="risc">.</div></td>
-    <td></td>
-    <td></td>
-	<td><div class="risc">.</div></td>
-	<td><div class="risc">.</div></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <th>p</th>
-	<th>p</th>
-	<th>p</th>
-	<td></td>
+	  <th>p</th>
+	  <th>r</th>
+	  <th>o</th>
+    <th>m</th>
+	  <th>e</th>
     <th>s</th>
-	<th>a</th>
-    <th>i</th>
-    <th>r</th>
-	<td></td>
     <th>s</th>
-    <th>a</th>
+	  <th>a</th>
+    <th>s</th>
+    <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>e</td>
-    <td>e</td>
-	<td>á</td>
-	<td></td>
-	<td></td>
-    <td>r</td>
-    <td></td>
-    <td>r</td>
-	<td></td>
-    <td>e</td>
-	<td>r</td>
-    <td></td>
-  </tr>
-  <tr>
     <td></td>
     <td></td>
-    <td>s</td>
-    <td>d</td>
-	<td>g</td>
-	<td></td>
-	<td></td>
-    <td>a</td>
-    <td></td>
-    <td>e</td>
-	<td></td>
-    <td>m</td>
-	<td>r</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>s</td>
-    <td>a</td>
-	<td>i</td>
-	<td></td>
-	<td></td>
+	  <td></td>
+	  <td>m</td>
+	  <td>u</td>
+    <td>n</td>
+    <td>i</td>
     <td>u</td>
-    <td></td>
-    <td>g</td>
-	<td></td>
-    <td><div class="risc">.</div></td>
-	<td>a</td>
+	  <td>l</td>
+    <td>i</td>
+	  <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>o</td>
-    <td>ç</td>
-	<td>n</td>
-	<td></td>
-	<td></td>
-    <td><div class="risc">.</div></td>
-    <td></td>
-    <td>u</td>
-	<td></td>
-    <td><div class="risc">.</div></td>
-	<td>n</td>
-    <td></td>
-  </tr>
-  <tr>
     <td></td>
     <td></td>
-    <td>a</td>
-    <td>o</td>
-	<td>a</td>
-	<td></td>
-	<td></td>
-    <td><div class="risc">.</div></td>
-    <td></td>
+	  <td></td>
+	  <td>e</td>
+	  <td>d</td>
+    <td>q</td>
     <td>l</td>
-	<td></td>
-    <td><div class="risc">.</div></td>
-	<td>j</td>
+    <td>b</td>
+	  <td>t</td>
+    <td>n</td>
+	  <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
+    <td></td>
+    <td></td>
+	  <td></td>
+	  <td>t</td>
+	  <td>a</td>
+    <td>u</td>
+    <td>e</td>
     <td>s</td>
-    <td><div class="risc">.</div></td>
-	<td><div class="risc">.</div></td>
-	<td></td>
-	<td></td>
-    <td><div class="risc">.</div></td>
+	  <td>e</td>
+    <td>g</td>
+	  <td></td>
     <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	  <td></td>
+	  <td>e</td>
+	  <td>n</td>
     <td>a</td>
-	<td></td>
-    <td><div class="risc">.</div></td>
-	<td>o</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-	<td><div class="risc">.</div></td>
-	<td></td>
-	<td></td>
-    <td><div class="risc">.</div></td>
-    <td></td>
+    <td>n</td>
+    <td>t</td>
+	  <td>r</td>
     <td>r</td>
-	<td></td>
-    <td><div class="risc">.</div></td>
-	<td><div class="risc">.</div></td>
+	  <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-	<td><div class="risc">.</div></td>
-	<td></td>
-	<td></td>
-    <td><div class="risc">.</div></td>
     <td></td>
-    <td><div class="risc">.</div></td>
-	<td></td>
-    <td><div class="risc">.</div></td>
-	<td><div class="risc">.</div></td>
+    <td></td>
+	  <td></td>
+	  <td>r</td>
+	  <td>ç</td>
+    <td>n</td>
+    <td>c</td>
+    <td>a</td>
+	  <td>n</td>
+    <td>a</td>
+	  <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	  <td></td>
+	  <td><div class="risc">.</div></td>
+	  <td>a</td>
+    <td>t</td>
+    <td>i</td>
+    <td>n</td>
+	  <td>a</td>
+    <td>r</td>
+	  <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	  <td></td>
+	  <td><div class="risc">.</div></td>
+	  <td>s</td>
+    <td>o</td>
+    <td>a</td>
+    <td>c</td>
+	  <td>t</td>
+    <td><div class="risc">.</div></td>
+	  <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	  <td></td>
+	  <td><div class="risc">.</div></td>
+	  <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td>m</td>
+    <td>i</td>
+	  <td>i</td>
+    <td><div class="risc">.</div></td>
+	  <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	  <td></td>
+	  <td><div class="risc">.</div></td>
+	  <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td>a</td>
+	  <td>v</td>
+    <td><div class="risc">.</div></td>
+	  <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	  <td></td>
+	  <td><div class="risc">.</div></td>
+	  <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td>i</td>
+	  <td>a</td>
+    <td><div class="risc">.</div></td>
+	  <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	  <td></td>
+	  <td><div class="risc">.</div></td>
+	  <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td>s</td>
+	  <td>s</td>
+    <td><div class="risc">.</div></td>
+	  <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	  <td></td>
+	  <td><div class="risc">.</div></td>
+	  <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+	  <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+	  <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+	  <td></td>
     <td></td>
     <td><div class="ast">I</div></td>
     <td><div class="ast">II</div></td>
-	<td><div class="ast">III</div></td>
-	<td></td>
-	<td></td>
+	  <td><div class="ast">III</div></td>
     <td><div class="ast">IV</div></td>
-    <td></td>
     <td><div class="ast">V</div></td>
-	<td></td>
     <td><div class="ast">VI</div></td>
-	<td><div class="ast">VII</div></td>
+	  <td><div class="ast">VII</div></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-	<td><div class="risc">.</div></td>
-	<td></td>
-	<td></td>
-    <td><div class="risc">.</div></td>
     <td></td>
+    <td></td>
+	  <td></td>
+	  <td><div class="risc">.</div></td>
+	  <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
-	<td></td>
     <td><div class="risc">.</div></td>
-	<td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+	  <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+	  <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td><div class="risc">i</div></td>
-    <td><div class="risc">i</div></td>
-	<td><div class="risc">i</div></td>
-	<td></td>
-	<td></td>
-    <td><div class="risc">i</div></td>
     <td></td>
+    <td></td>
+	  <td></td>
     <td><div class="risc">i</div></td>
-	<td></td>
     <td><div class="risc">i</div></td>
-	<td><div class="risc">x</div></td>
+	  <td><div class="risc">i</div></td>
+    <td><div class="risc">i</div></td>
+    <td><div class="risc">i</div></td>
+    <td><div class="risc">i</div></td>
+	  <td><div class="risc">x</div></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -352,48 +400,48 @@ div.risc {
   </tr>
   <tr>
     <td><div class="ast">I</div></td>
-    <td colspan="13"> <div class="inner"> plural de indivíduo consciente de si e distinto dos demais </div></td>
+    <td colspan="13"> <div class="inner">  </div></td>
   </tr>
   <tr>
     <td colspan="14">&nbsp;</td>
   </tr>
   <tr>
     <td><div class="ast">II</div></td>
-    <td colspan="13"> <div class="inner"> uma parte de qualquer coisa que se dividiu </div></td>
+    <td colspan="13"> <div class="inner">  </div></td>
   </tr>
   <tr>
     <td colspan="14">&nbsp;</td>
   </tr>
   <tr>
     <td><div class="ast">III</div></td>
-    <td colspan="13"> <div class="inner"> conteúdo de texto num livro ou similar que ocupa um dos lados de uma folha </div></td>
+    <td colspan="13"> <div class="inner">  </div></td>
   </tr>
   <tr>
     <td colspan="14">&nbsp;</td>
   </tr>
   <tr>
     <td><div class="ast">IV</div></td>
-    <td colspan="13"> <div class="inner"> reunião festiva, geralmente noturna, para ouvir música, conversar, dançar </div></td>
+    <td colspan="13"> <div class="inner">  </div></td>
   </tr>
   <tr>
     <td colspan="14">&nbsp;</td>
   </tr>
   <tr>
     <td><div class="ast">V</div></td>
-    <td colspan="13"> <div class="inner"> que não tem regularidade, quebrando uma série, um padrão </div></td>
+    <td colspan="13"> <div class="inner">  </div></td>
   </tr>
   <tr>
     <td colspan="14">&nbsp;</td>
   </tr>
   <tr>
     <td><div class="ast">VI</div></td>
-    <td colspan="13"> <div class="inner">  preposição indicativa de carência ou ausência </div></td>
+    <td colspan="13"> <div class="inner">   </div></td>
   </tr>
   <tr>
     <td colspan="14">&nbsp;</td>
   </tr>
   <tr>
     <td><div class="ast">VII</div></td>
-    <td colspan="13"> <div class="inner"> efeito de fazer com que algo se estabeleça no devido lugar </div></td>
+    <td colspan="13"> <div class="inner">  </div></td>
   </tr>
 </table>
