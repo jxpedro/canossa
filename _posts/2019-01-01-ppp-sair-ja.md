@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "ppp sair sa"
+title: "ppp sair ja"
 author: "jpx"
 categories: week
-image: ppp-sair-sa.png
+image: ppp-sair-ja.png
 tags: [week]
 ---
 
@@ -113,7 +113,7 @@ div.risc {
     <td><div class="risc">.</div></td>
     <td></td>
 	<td></td>
-    <td><div class="risc">.</div></td>
+    <td><div class="risc">d</div></td>
 	<td><div class="risc">.</div></td>
     <td></td>
   </tr>
@@ -129,7 +129,7 @@ div.risc {
     <td><div class="risc">.</div></td>
     <td></td>
 	<td></td>
-    <td><div class="risc">.</div></td>
+    <td><div class="risc">e</div></td>
 	<td><div class="risc">.</div></td>
     <td></td>
   </tr>
@@ -161,7 +161,7 @@ div.risc {
     <th>i</th>
     <th>r</th>
 	<td></td>
-    <th>s</th>
+    <th>j</th>
     <th>a</th>
     <td></td>
   </tr>
@@ -177,7 +177,7 @@ div.risc {
     <td></td>
     <td>r</td>
 	<td></td>
-    <td>e</td>
+    <td>u</td>
 	<td>r</td>
     <td></td>
   </tr>
@@ -193,7 +193,7 @@ div.risc {
     <td></td>
     <td>e</td>
 	<td></td>
-    <td>m</td>
+    <td>c</td>
 	<td>r</td>
     <td></td>
   </tr>
@@ -209,7 +209,7 @@ div.risc {
     <td></td>
     <td>g</td>
 	<td></td>
-    <td><div class="risc">.</div></td>
+    <td>n</td>
 	<td>a</td>
     <td></td>
   </tr>
@@ -225,7 +225,7 @@ div.risc {
     <td></td>
     <td>u</td>
 	<td></td>
-    <td><div class="risc">.</div></td>
+    <td>d</td>
 	<td>n</td>
     <td></td>
   </tr>
@@ -241,7 +241,7 @@ div.risc {
     <td></td>
     <td>l</td>
 	<td></td>
-    <td><div class="risc">.</div></td>
+    <td>o</td>
 	<td>j</td>
     <td></td>
   </tr>
@@ -387,7 +387,7 @@ div.risc {
   </tr>
   <tr>
     <td><div class="ast">VI</div></td>
-    <td colspan="13"> <div class="inner">  preposição indicativa de carência ou ausência </div></td>
+    <td colspan="13"> <div class="inner">  diz-se do que experimenta estado ou qualidade do que é feliz  </div></td>
   </tr>
   <tr>
     <td colspan="14">&nbsp;</td>
