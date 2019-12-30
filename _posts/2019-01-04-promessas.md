@@ -398,6 +398,7 @@ div.risc {
   <tr>
     <td colspan="14">&nbsp;</td>
   </tr>
+  <!--
   <tr>
     <td><div class="ast">I</div></td>
     <td colspan="13"> <div class="inner">  </div></td>
@@ -444,4 +445,5 @@ div.risc {
     <td><div class="ast">VII</div></td>
     <td colspan="13"> <div class="inner">  </div></td>
   </tr>
+  -->
 </table>
