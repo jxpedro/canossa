@@ -30,6 +30,9 @@ div.nota {
 div.ast {
   font-weight: bold;
 }
+div.let {
+  color: rgb(123, 123, 123);
+}
 div.inner {
   font-style: italic;
   text-align:justify;
@@ -161,13 +164,13 @@ div.risc {
     <td></td>
     <td></td>
 	  <td></td>
-	  <td>m</td>
-	  <td>u</td>
-    <td>n</td>
-    <td>i</td>
-    <td>u</td>
-	  <td>l</td>
-    <td>i</td>
+	  <td><div class="let">m</div></td>
+	  <td><div class="let">u</div></td>
+    <td><div class="let">n</div></td>
+    <td><div class="let">i</div></td>
+    <td><div class="let">u</div></td>
+	  <td><div class="let">l</div></td>
+    <td><div class="let">i</div></td>
 	  <td></td>
     <td></td>
     <td></td>
@@ -178,13 +181,13 @@ div.risc {
     <td></td>
     <td></td>
 	  <td></td>
-	  <td>e</td>
-	  <td>d</td>
-    <td>q</td>
-    <td>l</td>
-    <td>b</td>
-	  <td>t</td>
-    <td>n</td>
+	  <td><div class="let">e</div></td>
+	  <td><div class="let">d</div></td>
+    <td><div class="let">q</div></td>
+    <td><div class="let">l</div></td>
+    <td><div class="let">b</div></td>
+	  <td><div class="let">t</div></td>
+    <td><div class="let">n</div></td>
 	  <td></td>
     <td></td>
     <td></td>
@@ -195,13 +198,13 @@ div.risc {
     <td></td>
     <td></td>
 	  <td></td>
-	  <td>t</td>
-	  <td>a</td>
-    <td>u</td>
-    <td>e</td>
-    <td>s</td>
-	  <td>e</td>
-    <td>g</td>
+	  <td><div class="let">t</div></td>
+	  <td><div class="let">a</div></td>
+    <td><div class="let">u</div></td>
+    <td><div class="let">e</div></td>
+    <td><div class="let">s</div></td>
+	  <td><div class="let">e</div></td>
+    <td><div class="let">g</div></td>
 	  <td></td>
     <td></td>
     <td></td>
@@ -212,13 +215,13 @@ div.risc {
     <td></td>
     <td></td>
 	  <td></td>
-	  <td>e</td>
-	  <td>n</td>
-    <td>a</td>
-    <td>n</td>
-    <td>t</td>
-	  <td>r</td>
-    <td>r</td>
+	  <td><div class="let">e</div></td>
+	  <td><div class="let">n</div></td>
+    <td><div class="let">a</div></td>
+    <td><div class="let">n</div></td>
+    <td><div class="let">t</div></td>
+	  <td><div class="let">r</div></td>
+    <td><div class="let">r</div></td>
 	  <td></td>
     <td></td>
     <td></td>
@@ -229,30 +232,13 @@ div.risc {
     <td></td>
     <td></td>
 	  <td></td>
-	  <td>r</td>
-	  <td>ç</td>
-    <td>n</td>
-    <td>c</td>
-    <td>a</td>
-	  <td>n</td>
-    <td>a</td>
-	  <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-	  <td></td>
-	  <td><div class="risc">.</div></td>
-	  <td>a</td>
-    <td>t</td>
-    <td>i</td>
-    <td>n</td>
-	  <td>a</td>
-    <td>r</td>
+	  <td><div class="let">r</div></td>
+	  <td><div class="let">ç</div></td>
+    <td><div class="let">n</div></td>
+    <td><div class="let">c</div></td>
+    <td><div class="let">a</div></td>
+	  <td><div class="let">n</div></td>
+    <td><div class="let">a</div></td>
 	  <td></td>
     <td></td>
     <td></td>
@@ -264,11 +250,28 @@ div.risc {
     <td></td>
 	  <td></td>
 	  <td><div class="risc">.</div></td>
-	  <td>s</td>
-    <td>o</td>
-    <td>a</td>
-    <td>c</td>
-	  <td>t</td>
+	  <td><div class="let">a</div></td>
+    <td><div class="let">t</div></td>
+    <td><div class="let">i</div></td>
+    <td><div class="let">n</div></td>
+	  <td><div class="let">a</div></td>
+    <td><div class="let">r</div></td>
+	  <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	  <td></td>
+	  <td><div class="risc">.</div></td>
+	  <td><div class="let">s</div></td>
+    <td><div class="let">o</div></td>
+    <td><div class="let">a</div></td>
+    <td><div class="let">c</div></td>
+	  <td><div class="let">t</div></td>
     <td><div class="risc">.</div></td>
 	  <td></td>
     <td></td>
@@ -283,26 +286,9 @@ div.risc {
 	  <td><div class="risc">.</div></td>
 	  <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
-    <td>m</td>
-    <td>i</td>
-	  <td>i</td>
-    <td><div class="risc">.</div></td>
-	  <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-	  <td></td>
-	  <td><div class="risc">.</div></td>
-	  <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-    <td>a</td>
-	  <td>v</td>
+    <td><div class="let">m</div></td>
+    <td><div class="let">i</div></td>
+	  <td><div class="let">i</div></td>
     <td><div class="risc">.</div></td>
 	  <td></td>
     <td></td>
@@ -318,8 +304,8 @@ div.risc {
 	  <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
-    <td>i</td>
-	  <td>a</td>
+    <td><div class="let">a</div></td>
+	  <td><div class="let">v</div></td>
     <td><div class="risc">.</div></td>
 	  <td></td>
     <td></td>
@@ -335,8 +321,25 @@ div.risc {
 	  <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
-    <td>s</td>
-	  <td>s</td>
+    <td><div class="let">i</div></td>
+	  <td><div class="let">a</div></td>
+    <td><div class="risc">.</div></td>
+	  <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	  <td></td>
+	  <td><div class="risc">.</div></td>
+	  <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="let">s</div></td>
+	  <td><div class="let">s</div></td>
     <td><div class="risc">.</div></td>
 	  <td></td>
     <td></td>
