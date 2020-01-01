@@ -12,11 +12,11 @@ tags: [week]
 <style>
 table#t02, th, td {
 	border-width:5px;  
-    border-style:none;
+  border-style:none;
 	padding: 0px;
 	width:80%; 
 	margin-left:auto; 
-    margin-right:auto;
+  margin-right:auto;
 	table-layout: fixed;
 	align-content: center;
 	text-align:center;
@@ -45,15 +45,16 @@ div.risc {
 
 <table id="t02">
   <tr>
-    <td colspan="14">&nbsp;</td>
+    <td colspan="15">&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="14">&nbsp;</td>
+    <td colspan="15">&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="14">&nbsp;</td>
+    <td colspan="15">&nbsp;</td>
   </tr>
   <tr>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -70,6 +71,7 @@ div.risc {
     <td></td>
   </tr>
   <tr>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -86,6 +88,7 @@ div.risc {
     <td></td>
   </tr>
   <tr>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -105,6 +108,7 @@ div.risc {
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td><div class="risc">.</div></td>
     <td></td>
   	<td><div class="risc">.</div></td>
@@ -118,6 +122,7 @@ div.risc {
     <td></td>
   </tr>
   <tr>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -138,6 +143,7 @@ div.risc {
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
 	  <td>n</td>
 	  <td>o</td>
 	  <td>n</td>
@@ -150,6 +156,7 @@ div.risc {
     <td></td>
   </tr>
   <tr>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -166,7 +173,7 @@ div.risc {
     <td></td>
   </tr>
   <tr>
-  <tr>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -182,8 +189,8 @@ div.risc {
 	  <td></td>
     <td></td>
   </tr>
-  </tr>
   <tr>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -200,6 +207,7 @@ div.risc {
     <td></td>
   </tr>
   <tr>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -220,6 +228,7 @@ div.risc {
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
 	  <td><div class="risc">.</div></td>
 	  <td>o</td>
 	  <td>á</td>
@@ -232,6 +241,7 @@ div.risc {
     <td></td>
   </tr>
   <tr>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -252,6 +262,7 @@ div.risc {
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
 	  <td><div class="risc">.</div></td>
 	  <td><div class="risc">.</div></td>
 	  <td>e</td>
@@ -264,6 +275,7 @@ div.risc {
     <td></td>
   </tr>
   <tr>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -284,6 +296,7 @@ div.risc {
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
 	  <td><div class="risc">.</div></td>
 	  <td><div class="risc">.</div></td>
 	  <td>s</td>
@@ -296,6 +309,7 @@ div.risc {
     <td></td>
   </tr>
   <tr>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -316,6 +330,7 @@ div.risc {
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
 	  <td><div class="risc">.</div></td>
 	  <td><div class="risc">.</div></td>
 	  <td><div class="risc">.</div></td>
@@ -332,6 +347,7 @@ div.risc {
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
 	  <td><div class="risc">.</div></td>
 	  <td><div class="risc">.</div></td>
 	  <td><div class="risc">.</div></td>
@@ -344,6 +360,7 @@ div.risc {
     <td></td>
   </tr>
   <tr>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -364,6 +381,7 @@ div.risc {
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
 	  <td><div class="risc">.</div></td>
 	  <td><div class="risc">.</div></td>
 	  <td><div class="risc">.</div></td>
@@ -376,6 +394,7 @@ div.risc {
     <td></td>
   </tr>
   <tr>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -392,60 +411,12 @@ div.risc {
     <td></td>
   </tr>
   <tr>
-    <td colspan="14">&nbsp;</td>
+    <td colspan="15">&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="14">&nbsp;</td>
+    <td colspan="15">&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="14">&nbsp;</td>
+    <td colspan="15">&nbsp;</td>
   </tr>
-  <!--
-  <tr>
-    <td><div class="ast">I</div></td>
-    <td colspan="13"> <div class="inner">  </div></td>
-  </tr>
-  <tr>
-    <td colspan="14">&nbsp;</td>
-  </tr>
-  <tr>
-    <td><div class="ast">II</div></td>
-    <td colspan="13"> <div class="inner">  </div></td>
-  </tr>
-  <tr>
-    <td colspan="14">&nbsp;</td>
-  </tr>
-  <tr>
-    <td><div class="ast">III</div></td>
-    <td colspan="13"> <div class="inner">  </div></td>
-  </tr>
-  <tr>
-    <td colspan="14">&nbsp;</td>
-  </tr>
-  <tr>
-    <td><div class="ast">IV</div></td>
-    <td colspan="13"> <div class="inner">  </div></td>
-  </tr>
-  <tr>
-    <td colspan="14">&nbsp;</td>
-  </tr>
-  <tr>
-    <td><div class="ast">V</div></td>
-    <td colspan="13"> <div class="inner">  </div></td>
-  </tr>
-  <tr>
-    <td colspan="14">&nbsp;</td>
-  </tr>
-  <tr>
-    <td><div class="ast">VI</div></td>
-    <td colspan="13"> <div class="inner">   </div></td>
-  </tr>
-  <tr>
-    <td colspan="14">&nbsp;</td>
-  </tr>
-  <tr>
-    <td><div class="ast">VII</div></td>
-    <td colspan="13"> <div class="inner">  </div></td>
-  </tr>
-  -->
 </table>

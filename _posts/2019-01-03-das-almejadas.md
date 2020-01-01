@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "promessas"
+title: "das almejadas"
 author: "jpx"
 categories: week
-image: promessas.png
+image: das-almejadas.png
 tags: [week]
 ---
 
@@ -55,359 +55,359 @@ div.risc {
   </tr>
   <tr>
     <td></td>
-    <td></td>
-    <td></td>
+    <td><div class="risc">v</div></td>
     <td><div class="risc">v</div></td>
     <td></td>
+    <td></td>
+	  <td><div class="risc">v</div></td>
 	  <td></td>
 	  <td><div class="risc">v</div></td>
-	  <td><div class="risc">v</div></td>
-    <td><div class="risc">v</div></td>
-    <td><div class="risc">v</div></td>
+    <td></td>
     <td><div class="risc">v</div></td>
 	  <td><div class="risc">v</div></td>
     <td></td>
-	  <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><div class="risc">.</div></td>
-	  <td></td>
-	  <td></td>
-	  <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-	  <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-	  <td></td>
+	  <td><div class="risc">v</div></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
     <td></td>
     <td></td>
-    <td><div class="risc">.</div></td>
-	  <td></td>
+	  <td><div class="risc">.</div></td>
 	  <td></td>
 	  <td><div class="risc">.</div></td>
+    <td></td>
     <td><div class="risc">.</div></td>
-    <td><div class="risc">s</div></td>
     <td><div class="risc">.</div></td>
+	  <td></td>
+    <td><div class="risc">.</div></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td></td>
+    <td></td>
 	  <td><div class="risc">.</div></td>
+	  <td></td>
+	  <td><div class="risc">.</div></td>
+    <td></td>
     <td><div class="risc">d</div></td>
+    <td><div class="risc">.</div></td>
 	  <td></td>
+    <td><div class="risc">.</div></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td></td>
-    <td></td>
     <td><div class="risc">.</div></td>
-	  <td></td>
+    <td><div class="risc">.</div></td>
+    <td></td>
+    <td></td>
+	  <td><div class="risc">.</div></td>
 	  <td></td>
 	  <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
+    <td></td>
+    <td><div class="risc">a</div></td>
     <td><div class="risc">e</div></td>
-    <td><div class="risc">.</div></td>
-	  <td><div class="risc">.</div></td>
-    <td><div class="risc">e</div></td>
 	  <td></td>
+    <td><div class="risc">.</div></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
+    <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
     <td></td>
     <td></td>
-    <td><div class="risc">.</div></td>
-	  <td></td>
+	  <td><div class="risc">.</div></td>
 	  <td></td>
 	  <td><div class="risc">.</div></td>
+    <td></td>
     <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-	  <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
 	  <td></td>
+    <td><div class="risc">.</div></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td></td>
-    <td></td>
-	  <th>p</th>
-	  <th>r</th>
-	  <th>o</th>
-    <th>m</th>
-	  <th>e</th>
+    <th>d</th>
+    <th>a</th>
     <th>s</th>
-    <th>s</th>
+    <td></td>
 	  <th>a</th>
-    <th>s</th>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-	  <td></td>
-	  <td>m</td>
-	  <td>u</td>
-    <td>n</td>
-    <td>i</td>
-    <td>u</td>
-	  <td>l</td>
-    <td>i</td>
-	  <td></td>
-    <td></td>
+	  <th>l</th>
+	  <th>m</th>
+    <th>e</th>
+    <th>j</th>
+    <th>a</th>
+	  <th>d</th>
+    <th>a</th>
+	  <th>s</th>
     <td></td>
   </tr>
   <tr>
     <td></td>
+    <td><div class="risc">e</div></td>
+    <td></td>
+    <td><div class="risc">s</div></td>
     <td></td>
     <td></td>
-    <td></td>
+	  <td><div class="risc">i</div></td>
 	  <td></td>
-	  <td>e</td>
-	  <td>d</td>
-    <td>q</td>
-    <td>l</td>
-    <td>b</td>
-	  <td>t</td>
-    <td>n</td>
-	  <td></td>
+	  <td><div class="risc">t</div></td>
+    <td><div class="risc">u</div></td>
     <td></td>
+    <td><div class="risc">m</div></td>
+    <td></td>
+    <td><div class="risc">s</div></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
+    <td><div class="risc">s</div></td>
+    <td></td>
+    <td><div class="risc">u</div></td>
     <td></td>
     <td></td>
-    <td></td>
+	  <td><div class="risc">c</div></td>
 	  <td></td>
-	  <td>t</td>
-	  <td>a</td>
-    <td>u</td>
-    <td>e</td>
-    <td>s</td>
-	  <td>e</td>
-    <td>g</td>
-	  <td></td>
+	  <td><div class="risc">a</div></td>
+    <td><div class="risc">s</div></td>
     <td></td>
+    <td><div class="risc">i</div></td>
+    <td></td>
+    <td><div class="risc">i</div></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
+    <td><div class="risc">m</div></td>
+    <td></td>
+    <td><div class="risc">m</div></td>
     <td></td>
     <td></td>
-    <td></td>
+	  <td><div class="risc">e</div></td>
 	  <td></td>
-	  <td>e</td>
-	  <td>n</td>
-    <td>a</td>
-    <td>n</td>
-    <td>t</td>
-	  <td>r</td>
-    <td>r</td>
-	  <td></td>
+	  <td><div class="risc">f</div></td>
+    <td><div class="risc">t</div></td>
     <td></td>
+    <td><div class="risc">t</div></td>
+    <td></td>
+    <td><div class="risc">m</div></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
+    <td><div class="risc">o</div></td>
+    <td></td>
+    <td><div class="risc">i</div></td>
     <td></td>
     <td></td>
-    <td></td>
+	  <td><div class="risc">r</div></td>
 	  <td></td>
-	  <td>r</td>
-	  <td>ç</td>
-    <td>n</td>
-    <td>c</td>
-    <td>a</td>
-	  <td>n</td>
-    <td>a</td>
-	  <td></td>
+	  <td><div class="risc">í</div></td>
+    <td><div class="risc">a</div></td>
     <td></td>
+    <td><div class="risc">i</div></td>
+    <td></td>
+    <td><div class="risc">e</div></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
+    <td><div class="risc">n</div></td>
+    <td></td>
+    <td><div class="risc">d</div></td>
     <td></td>
     <td></td>
-    <td></td>
+	  <td><div class="risc">ç</div></td>
 	  <td></td>
-	  <td><div class="risc">.</div></td>
-	  <td>a</td>
-    <td>t</td>
-    <td>i</td>
-    <td>n</td>
-	  <td>a</td>
-    <td>r</td>
-	  <td></td>
+	  <td><div class="risc">s</div></td>
+    <td><div class="risc">.</div></td>
     <td></td>
+    <td><div class="risc">d</div></td>
+    <td></td>
+    <td><div class="risc">t</div></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
+    <td><div class="risc">t</div></td>
+    <td></td>
+    <td><div class="risc">a</div></td>
     <td></td>
     <td></td>
-    <td></td>
+	  <td><div class="risc">a</div></td>
 	  <td></td>
-	  <td><div class="risc">.</div></td>
-	  <td>s</td>
-    <td>o</td>
-    <td>a</td>
-    <td>c</td>
-	  <td>t</td>
+	  <td><div class="risc">i</div></td>
     <td><div class="risc">.</div></td>
-	  <td></td>
     <td></td>
+    <td><div class="risc">a</div></td>
+    <td></td>
+    <td><div class="risc">r</div></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
+    <td><div class="risc">a</div></td>
+    <td></td>
+    <td><div class="risc">m</div></td>
     <td></td>
     <td></td>
-    <td></td>
+	  <td><div class="risc">d</div></td>
 	  <td></td>
-	  <td><div class="risc">.</div></td>
-	  <td><div class="risc">.</div></td>
+	  <td><div class="risc">c</div></td>
     <td><div class="risc">.</div></td>
-    <td>m</td>
-    <td>i</td>
-	  <td>i</td>
-    <td><div class="risc">.</div></td>
-	  <td></td>
     <td></td>
+    <td><div class="risc">.</div></td>
+    <td></td>
+    <td><div class="risc">i</div></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
+    <td><div class="risc">r</div></td>
+    <td></td>
+    <td><div class="risc">e</div></td>
     <td></td>
     <td></td>
-    <td></td>
+	  <td><div class="risc">a</div></td>
 	  <td></td>
-	  <td><div class="risc">.</div></td>
-	  <td><div class="risc">.</div></td>
+	  <td><div class="risc">a</div></td>
     <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-    <td>a</td>
-	  <td>v</td>
-    <td><div class="risc">.</div></td>
-	  <td></td>
     <td></td>
+    <td><div class="risc">.</div></td>
+    <td></td>
+    <td><div class="risc">a</div></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
+    <td><div class="risc">.</div></td>
+    <td></td>
+    <td><div class="risc">n</div></td>
     <td></td>
     <td></td>
-    <td></td>
+	  <td><div class="risc">.</div></td>
 	  <td></td>
 	  <td><div class="risc">.</div></td>
-	  <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-    <td>i</td>
-	  <td>a</td>
-    <td><div class="risc">.</div></td>
-	  <td></td>
     <td></td>
+    <td><div class="risc">.</div></td>
+    <td></td>
+    <td><div class="risc">.</div></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
+    <td><div class="risc">.</div></td>
+    <td></td>
+    <td><div class="risc">t</div></td>
     <td></td>
     <td></td>
-    <td></td>
+	  <td><div class="risc">.</div></td>
 	  <td></td>
 	  <td><div class="risc">.</div></td>
-	  <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-    <td>s</td>
-	  <td>s</td>
-    <td><div class="risc">.</div></td>
-	  <td></td>
     <td></td>
+    <td><div class="risc">.</div></td>
+    <td></td>
+    <td><div class="risc">.</div></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
+    <td><div class="risc">.</div></td>
+    <td></td>
+    <td><div class="risc">e</div></td>
     <td></td>
     <td></td>
-    <td></td>
+	  <td><div class="risc">.</div></td>
 	  <td></td>
 	  <td><div class="risc">.</div></td>
-	  <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-	  <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-	  <td></td>
     <td></td>
+    <td><div class="risc">.</div></td>
+    <td></td>
+    <td><div class="risc">.</div></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
+    <td><div class="risc">.</div></td>
+    <td></td>
+    <td><div class="risc">.</div></td>
     <td></td>
     <td></td>
+	  <td><div class="risc">.</div></td>
 	  <td></td>
+	  <td><div class="risc">.</div></td>
+    <td><div class="risc">.</div></td>
+    <td></td>
+    <td><div class="risc">.</div></td>
+    <td></td>
+    <td><div class="risc">.</div></td>
+    <td></td>
+  </tr>
+  <tr>
     <td></td>
     <td><div class="ast">I</div></td>
+    <td></td>
     <td><div class="ast">II</div></td>
+    <td></td>
+    <td></td>
 	  <td><div class="ast">III</div></td>
+	  <td></td>
     <td><div class="ast">IV</div></td>
     <td><div class="ast">V</div></td>
-    <td><div class="ast">VI</div></td>
-	  <td><div class="ast">VII</div></td>
     <td></td>
+	  <td><div class="ast">VI</div></td>
     <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-	  <td></td>
-	  <td><div class="risc">.</div></td>
-	  <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-	  <td><div class="risc">.</div></td>
-    <td><div class="risc">.</div></td>
-	  <td></td>
-    <td></td>
+    <td><div class="ast">VII</div></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
+    <td><div class="risc">.</div></td>
+    <td></td>
+    <td><div class="risc">.</div></td>
     <td></td>
     <td></td>
-    <td></td>
+	  <td><div class="risc">.</div></td>
 	  <td></td>
+    <td><div class="risc">.</div></td>
+	  <td><div class="risc">.</div></td>
+    <td></td>
+	  <td><div class="risc">.</div></td>
+    <td></td>
+    <td><div class="risc">.</div></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
     <td><div class="risc">i</div></td>
+    <td></td>
+    <td><div class="risc">i</div></td>
+    <td></td>
+    <td></td>
+	  <td><div class="risc">i</div></td>
+	  <td></td>
     <td><div class="risc">i</div></td>
 	  <td><div class="risc">i</div></td>
-    <td><div class="risc">i</div></td>
-    <td><div class="risc">i</div></td>
-    <td><div class="risc">i</div></td>
-	  <td><div class="risc">x</div></td>
     <td></td>
+	  <td><div class="risc">i</div></td>
     <td></td>
+    <td><div class="risc">x</div></td>
     <td></td>
   </tr>
   <tr>
