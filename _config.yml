@@ -1,7 +1,7 @@
 # Site Build Settings
 
 # jekyll-paginate configuration
-paginate:            1
+paginate:            5
 
 # Build settings
 markdown:            kramdown
@@ -18,7 +18,7 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "ca&nbsp;&nbsp;&nbsp;nos&nbsp;sa"
 description:	       ""
-author:              "jxp"
+author:              ""
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
