@@ -59,10 +59,10 @@ div.risc {
   <tr>
     <td></td>
     <td></td>
-    <td></td>
     <td><div class="risc">v</div></td>
 	  <td></td>
-	  <td><div class="risc">v</div></td>
+    <td><div class="risc">v</div></td>
+	  <td></td>
 	  <td></td>
     <td><div class="risc">v</div></td>
     <td><div class="risc">v</div></td>
@@ -76,11 +76,11 @@ div.risc {
   <tr>
     <td></td>
     <td></td>
-    <td></td>
     <td><div class="risc">.</div></td>
 	  <td></td>
 	  <td><div class="risc">.</div></td>
 	  <td></td>
+    <td></td>
     <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
@@ -111,16 +111,16 @@ div.risc {
     <td></td>
     <td></td>
     <td></td>
-    <td><div class="let">a</div></td>
+    <td><div class="let">...</div></td>
 	  <td></td>
+	  <td><div class="let">...</div></td>
 	  <td></td>
-	  <td><div class="let">a</div></td>
-    <td><div class="let">a</div></td>
-    <td><div class="let">a</div></td>
-    <td><div class="let">a</div></td>
-	  <td><div class="let">a</div></td>
-    <td><div class="let">a</div></td>
-	  <td></td>
+    <td><div class="let">...</div></td>
+    <td><div class="let">...</div></td>
+    <td><div class="let">...</div></td>
+	  <td><div class="let">...</div></td>
+    <td></td>
+    <td><div class="let">...</div></td>
     <td></td>
     <td></td>
   </tr>
@@ -130,14 +130,14 @@ div.risc {
     <td></td>
     <td><div class="risc">.</div></td>
 	  <td></td>
-	  <td></td>
 	  <td><div class="risc">.</div></td>
+    <td></td>
     <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
 	  <td><div class="risc">.</div></td>
+    <td></td>
     <td><div class="risc">.</div></td>
-	  <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -147,16 +147,16 @@ div.risc {
     <td></td>
     <td><div class="ast">I</div></td>
     <td></td>
-    <td></td>
     <td><div class="ast">II</div></td>
+    <td></td>
 	  <td><div class="ast">III</div></td>
     <td><div class="ast">IV</div></td>
     <td><div class="ast">V</div></td>
     <td><div class="ast">VI</div></td>
+    <td></td>
 	  <td><div class="ast">VII</div></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td></td>
@@ -164,14 +164,14 @@ div.risc {
     <td></td>
     <td><div class="risc">.</div></td>
 	  <td></td>
-	  <td></td>
 	  <td><div class="risc">.</div></td>
+    <td></td>
     <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
     <td><div class="risc">.</div></td>
 	  <td><div class="risc">.</div></td>
+    <td></td>
     <td><div class="risc">.</div></td>
-	  <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -181,14 +181,14 @@ div.risc {
     <td></td>
     <td><div class="risc">i</div></td>
 	  <td></td>
-	  <td></td>
 	  <td><div class="risc">i</div></td>
+    <td></td>
     <td><div class="risc">i</div></td>
     <td><div class="risc">i</div></td>
     <td><div class="risc">i</div></td>
 	  <td><div class="risc">i</div></td>
+    <td></td>
     <td><div class="risc">x</div></td>
-	  <td></td>
     <td></td>
     <td></td>
   </tr>
