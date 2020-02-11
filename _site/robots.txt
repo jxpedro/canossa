@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/canossa/sitemap.xml
+Sitemap: http://jxpedro.github.io/canossa/sitemap.xml
