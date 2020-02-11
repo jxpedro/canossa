@@ -1,26 +1,69 @@
-# Site Build Settings
+# Site/SEO settings
+email: jpsm@tutanota.com
+baseurl: "/canossa"
+permalink: /:title/
+google_analytics: 
 
-# jekyll-paginate configuration
-paginate:            53
+name: jxpedro
+title: ca  nos sa
+description: >
+  ca nossa
+url: http://jxpedro.github.io
+
+default_img: /assets/images/icons_web_e.png
+
+# Author settings
+author:
+  - name: jxpedro
+    bio: a tad asymmetrical Pedro
+    url: http://jxpedro.github.io
+
+# Pagination settings
+paginate: 53
+paginate_path: "/page:num/"
+
+
+
+#pagination:
+#  enabled: true
+#  debug: false
+#  per_page: 6
+#  permalink: '/page/:num/'
+#  title: ''
+#  limit: 0
+#  sort_field: 'date'
+#  sort_reverse: true
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    layouts: 
+      - 'tag.html'
+    title: ':title'
+    permalink: '/tag/:tag'
+    slugify:
+      mode: raw
+      cased: true
 
 # Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           none
-gems: [jekyll-paginate]
-#plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-
-#
-
-sass:
-  sass_dir: assets/css
-  style: :nested
-
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "ca&nbsp;&nbsp;&nbsp;nos&nbsp;sa"
-description:	       ""
-author:              ""
-
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+markdown: kramdown
+plugins: [jekyll-paginate, jekyll-sitemap, jekyll-seo-tag]
+#plugins_dir:
+#  - jekyll-paginate-v2
+#  - jekyll-sitemap
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - node_modules
+  - .DS_Store
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md
+  - vendor

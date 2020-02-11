@@ -1,6 +1,23 @@
-<footer class="footer">
-  <!--{% for item in site.data.settings.social %}
-    <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-  {% endfor %}-->
-  <div class="post-date"><a href="{{ site.github.url }}/">{{ site.title }} {{ site.description }} {{ site.author }}</a></div>
+<!-- The footer at the very bottom of the screen -->
+<footer class="footer section-padding">
+  <div class="grid">
+    <hr class="sep--white"/>
+
+    <div class="footer__container">
+
+
+      
+
+      {% include social.html %}
+    </div>
+  </div>
 </footer>
+
+
+{% if paginator.next_page %}
+  <script>
+    var maxPages = parseInt('{{ paginator.total_pages }}');
+  </script>
+{% endif %}
+
+<script src="{{ '/assets/js/app.min.js' | prepend: site.baseurl }}"></script>
