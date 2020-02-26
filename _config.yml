@@ -8,7 +8,7 @@ name: jxpedro
 title: ca  nos sa
 description: >
   a gathering of collected watches
-url: http://jxpedro.github.io/
+url: http://jxpedro.github.io
 
 default_img: canossa/assets/images/icons_web_e.png
 
@@ -16,7 +16,7 @@ default_img: canossa/assets/images/icons_web_e.png
 author:
   - name: jxpedro
     bio: a tad asymmetrical Pedro
-    url: http://jxpedro.github.io/
+    url: http://jxpedro.github.io
 
 # Pagination settings
 paginate: 53
