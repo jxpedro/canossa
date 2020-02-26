@@ -10,13 +10,13 @@ description: >
   a gathering of collected watches
 url: http://jxpedro.github.io/canossa
 
-default_img: /assets/images/icons_web_e.png
+default_img: canossa/assets/images/icons_web_e.png
 
 # Author settings
 author:
   - name: jxpedro
     bio: a tad asymmetrical Pedro
-    url: http://jxpedro.github.io
+    url: http://jxpedro.github.io/canossa
 
 # Pagination settings
 paginate: 53
