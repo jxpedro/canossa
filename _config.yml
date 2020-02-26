@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: jpsm@tutanota.com
-baseurl: "/analogtimetellers"
+baseurl: "/canossa"
 permalink: /:title/
 google_analytics: 
 
@@ -8,7 +8,7 @@ name: jxpedro
 title: analog time tellers
 description: >
   a gathering of collected watches
-url: http://jxpedro.github.io/analogtimetellers
+url: http://jxpedro.github.io/canossa
 
 default_img: /assets/images/icons_web_e.png
 
