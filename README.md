@@ -1,4 +1,3 @@
-<p>on the passing of time around somewhere in space
-from a tad asymmetrical Pedro's
+<p>CA (língua esta a) NOSSA (pá)
 <a href="http://jxpedro.github.io/"> collection of interconnected documents</a>
 </p>
