@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "das almejadas"
+title: " "
 author: "jxpedro"
 categories: week
 image: /canossa/assets/img/das-almejadas.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "promessas"
+title: " "
 author: "jxpedro"
 categories: week
 image: /canossa/assets/img/promessas.png

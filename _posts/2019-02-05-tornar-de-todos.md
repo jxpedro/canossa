@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tornar de todos"
+title: " "
 author: "jxpedro"
 categories: week
 image: /canossa/assets/img/tornar-de-todos.png

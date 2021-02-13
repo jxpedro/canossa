@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cativadas"
+title: " "
 author: "jxpedro"
 categories: week
 image: /canossa/assets/img/cativadas.png

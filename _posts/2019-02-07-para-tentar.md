@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "para tentar"
+title: " "
 author: "jxpedro"
 categories: week
 image: /canossa/assets/img/para-tentar.png
